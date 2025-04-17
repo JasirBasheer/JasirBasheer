@@ -1,3 +1,4 @@
+```json
 {
   "name": "Jasir Basheer",
   "skills": [
@@ -6,7 +7,7 @@
     "Frontend Development",
     "API Design & Integration",
     "Database Management",
-    "DevOps & CI/CD",
+    "DevOps & CI/CD"
   ],
   "learning": [
     "Advanced System Design",
@@ -26,3 +27,4 @@
     "x": "https://x.com/jasirbasheerpp"
   }
 }
+```
