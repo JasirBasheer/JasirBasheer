@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @JasirBasheer
-- 👀 I’m interested in MERN STACK 
-- 🌱 I’m currently learning REACT
-- 💞️ I’m looking to collaborate on MERN PROJECTS
-- 📫 Feel free to contact me via email at jasirbasheerpp@gmail.com 😊
-
-<!---
-JasirBasheer/JasirBasheer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+{
+  "name": "Jasir Basheer",
+  "skills": [
+    "Full-Stack Web Development",
+    "Backend Development",
+    "Frontend Development",
+    "API Design & Integration",
+    "Database Management",
+    "DevOps & CI/CD",
+  ],
+  "learning": [
+    "Advanced System Design",
+    "Bug Bounty Hunting",
+    "Cloud Computing"
+  ],
+  "interests": [
+    "Building APIs",
+    "Solving complex problems with software",
+    "Exploring open-source contributions",
+    "Teaching & Blogging",
+    "Entrepreneurship"
+  ],
+  "social": {
+    "github": "https://github.com/JasirBasheer",
+    "linkedin": "https://www.linkedin.com/in/jasirbasheerpp/",
+    "x": "https://x.com/jasirbasheerpp"
+  }
+}
