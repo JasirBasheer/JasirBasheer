@@ -28,3 +28,6 @@
   }
 }
 ```
+
+| ![Contribution Stats](https://github-readme-stats.vercel.app/api?username=jasirbasheer&theme=dark&hide_border=true) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jasirbasheer&theme=dark&hide_border=true)](https://git.io/streak-stats) |
+| --- | --- |
